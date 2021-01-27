@@ -6,3 +6,4 @@ For more information contact me please: </p>
   <li>mob: +420 734 312 604</li>
   <li>email: filip.paul@email.cz</li>
 </ul>
+<h2> smthing </h2>
