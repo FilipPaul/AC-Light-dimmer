@@ -40,4 +40,8 @@ This device can dim the lights according to the position of the potentiometer. I
 
 <img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/wall1.jpg" ><br>
 
-<h3> Some random semi-working Web page, to prove, that i can develop something with JS, HTML and CSS </h3>
+<h3> Some random semi-working Web page, to prove, that I can develop something in JS, HTML and CSS </h3>
+<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/gif/web.gif" ><br>
+
+<h3> And finally, my photo of dimmed light bulb (in stupid resolution) </h3>
+<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/bulb.jpg" ><br>
