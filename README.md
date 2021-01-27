@@ -12,19 +12,32 @@ This device can dim the lights according to the position of the potentiometer. I
 <p> The dimmer function is based on the Leading Edge Triac method. The brain of this device is ESP8266 microcontroller, which ensures all timings and connectivity. </p>
 <h3> Sheme and layout </h3>
 <p> Scheme and PCB layout were created in EasyEDA environment, mainly because it is a relatively simple project, and because I have ordered components together with PCB at JLCPCB. For more complex projects I'm able to work with Solidworks PCB (it is similar to Altium, but for me, it has better connectivity with SOLIDWORKS, which I use for 3D printed casings. <p><br>
-<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/scheme.PNG" ><br>
-<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/layout.PNG" ><br>
-<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/layout1.PNG" ><br>
-<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/layout2.PNG" ><br>
-<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/PCB.JPG" ><br>
+<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/scheme.PNG" >
+<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/layout.PNG" >
+<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/layout1.PNG" >
+<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/layout2.PNG" >
+<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/PCB.JPG" >
+
+<h3>Some random test, to prove, that i can use scope</h3>
+<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/osc1.pngG" ><br>
+<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/osc2.pngG" ><br>
 
 <h3>Casing</h3>
 <p>Casing was designed in SOLIDWORKS and printed with Creality ENDER 3 Pro 3D printer.</p>
 
 <img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/casing.PNG" ><br>
 
+<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/wall.jpg" ><br>
+
 <h4> Mounted on ugly yellow wall </h4>
+
+<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/wall1.jpg" ><br>
+
+<h3> Mobile app and connectivity </h3>
+<p>Users can control the device with a mobile app. This app was written in "Flutter" (this language allows to write only one code, which is suitable for android and IOS together)</p>
+
 <img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/wall.jpg" ><br>
 
 <img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/wall1.jpg" ><br>
 
+<h3> Some random semi-working Web page, to prove, that i can develop something with JS, HTML and CSS </h3>
