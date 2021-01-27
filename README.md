@@ -19,8 +19,8 @@ This device can dim the lights according to the position of the potentiometer. I
 <img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/PCB.JPG" >
 
 <h3>Some random test, to prove, that i can use scope</h3>
-<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/osc1.pngG" ><br>
-<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/osc2.pngG" ><br>
+<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/osc1.png" ><br>
+<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/osc2.png" ><br>
 
 <h3>Casing</h3>
 <p>Casing was designed in SOLIDWORKS and printed with Creality ENDER 3 Pro 3D printer.</p>
@@ -36,9 +36,9 @@ This device can dim the lights according to the position of the potentiometer. I
 <h3> Mobile app and connectivity </h3>
 <p>Users can control the device with a mobile app. This app was written in "Flutter" (this language allows to write only one code, which is suitable for android and IOS together)</p>
 
-<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/wall.jpg" ><br>
+<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/app.PNG" ><br>
 
-<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/wall1.jpg" ><br>
+<img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/pictures/app2.PNG" ><br>
 
 <h3> Some random semi-working Web page, to prove, that I can develop something in JS, HTML and CSS </h3>
 <img src = "https://github.com/FilipPaul/AC-Light-dimmer/blob/master/gif/web.gif" ><br>
